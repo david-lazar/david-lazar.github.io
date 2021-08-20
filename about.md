@@ -13,6 +13,4 @@ Some of my research interests:
 * Fuzzing
 * Automotive Cyber Security
 
-If you would like to contact me, feel free to do so at:
-* [LinkedIn](https://www.linkedin.com/in/david-l-b82910a3/)
-* [Twitter](https://twitter.com/_DavidLazar)
+If you would like to contact me, feel free to do so at [Twitter](https://twitter.com/_DavidLazar).
