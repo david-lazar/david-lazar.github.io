@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is David Lazar, and I'm a Security Researcher at [Argus Cyber Security](https://argus-sec.com/).
+Some of my research interests:
+* Reverse Engineering
+* Embedded devices
+* Fuzzing
+* Automotive Cyber Security
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+If you would like to contact me, feel free to do so at:
+* [LinkedIn](https://www.linkedin.com/in/david-l-b82910a3/)
+* [Twitter](https://twitter.com/_DavidLazar)
